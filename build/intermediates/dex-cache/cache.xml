@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/dd2f2c952f397644b7afc428bb9af5eec70bb324/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_152e555cc461a9c5c315bb0362eb0736f7d2d6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/4adae6d06fcef0354286a81cf687af24fd84c3fd/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_45f79a5e4dd942c8d99627e3e37ae68f40d7f9f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37da80ca95f1f02a6eaea8291242324239ee7c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7589e5551ee6a145f46193b65a0bee740377ca3">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc947d3bc530d57190297d17c08f27e593dfaad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/1bb3f28d36f4d081c4f54d1e25e5b9b01abb65f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_04668cc8573eb739c50d086fe20081d2eacdc6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/0111767060e9dd9e4851dde5d43be3f56502f828/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_692ebe78176b3682b76e119a18a217200e228a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/549e03d6cf6bf25d4ec471d46bc2aeae9e476a64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_67012b94fba8c15861758cf296cb07039dd7e9ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_dbaf7c1591af91c462b8768046be2812be155e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/2d13cabe6e9036a36102027edcf1f7808536ccd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_c648441eb3f232559a9368472d97ccb1b7a3db14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/6a087404c2fca4c744db2dd5d2f291ef78e44201/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_06c07ff0614c22c9ff1c094784421fc7807a1113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/1bb3f28d36f4d081c4f54d1e25e5b9b01abb65f2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ce30aea8dad091a5fdd160e08c9f9892ae5baabc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/4adae6d06fcef0354286a81cf687af24fd84c3fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_6bacc49b7c966237056da9ac6ed173511baafb65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/0111767060e9dd9e4851dde5d43be3f56502f828/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9901dfd5f0da1a5dc8695cfb9db9f6f8d469aa15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/a2372b9ee2bae39745da6f476a4df1cc0b440d46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_24609e519167f17b3c5e879e8ce262a96163f35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/7dfd7ab00083652700447a4a7d01e46eaab9e96c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/classes_1ade86928e48b837d5c1d1694c0b6f16c75b3e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/a2372b9ee2bae39745da6f476a4df1cc0b440d46/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bff8bc1cdfc6f1695d165ef3e167125b5f864531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zh/.android/build-cache/dd2f2c952f397644b7afc428bb9af5eec70bb324/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/zh/Desktop/挑战杯/HealthyShoulder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e1f2aa26142ce712b1d087873b0cb80770985973.jar" />
+    </item>
+
+</items>

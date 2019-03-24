@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="26dp"
+        android:text="日期：" />
+
+    <TextView
+        android:id="@+id/textView_history_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView23"
+        android:layout_marginStart="39dp"
+        android:layout_toEndOf="@+id/textView23"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView23"
+        android:layout_below="@+id/textView23"
+        android:layout_marginTop="26dp"
+        android:text="指标一" />
+
+    <TextView
+        android:id="@+id/textView_history_index1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView_history_date"
+        android:layout_alignTop="@+id/textView25"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView_history_index1"
+        android:layout_marginStart="47dp"
+        android:layout_toEndOf="@+id/textView_history_index1"
+        android:text="指标二" />
+
+    <TextView
+        android:id="@+id/textView_history_index2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_alignBaseline="@+id/textView45"
+        android:layout_alignBottom="@+id/textView45"
+        android:layout_toEndOf="@+id/textView45"
+        android:layout_marginStart="17dp" />
+
+    <TextView
+        android:id="@+id/textView48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView25"
+        android:layout_below="@+id/textView25"
+        android:layout_marginTop="20dp"
+        android:text="指标三" />
+
+    <TextView
+        android:id="@+id/textView_history_index3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView_history_index1"
+        android:layout_alignTop="@+id/textView48"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView45"
+        android:layout_alignTop="@+id/textView_history_index3"
+        android:text="指标四" />
+
+    <TextView
+        android:id="@+id/textView_history_index4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView_history_index2"
+        android:layout_alignTop="@+id/textView50"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView48"
+        android:layout_below="@+id/textView48"
+        android:layout_marginTop="20dp"
+        android:text="指标五" />
+
+    <TextView
+        android:id="@+id/textView_history_index5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView_history_index3"
+        android:layout_alignTop="@+id/textView52"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView54"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView50"
+        android:layout_alignTop="@+id/textView_history_index5"
+        android:text="指标六" />
+
+    <TextView
+        android:id="@+id/textView_history_index6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView_history_index4"
+        android:layout_alignTop="@+id/textView54"
+        android:text="TextView" />
+</RelativeLayout>
